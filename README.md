@@ -7,10 +7,6 @@
   <img src="https://img.shields.io/badge/CompTIA-A%2B-EA0038?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" />
 </p>
 
-## About me
-
-I have an Information Systems background and experience in IT audit and technical support. At PwC, I worked on IT controls testing and audit documentation related to access, change management, and incident management.
-
 ## Technical foundation
 
 | Area | Knowledge and experience |
