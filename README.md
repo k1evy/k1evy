@@ -1,6 +1,5 @@
 <h1 align="center">Kymani Levy</h1>
-<h3 align="center">Cybersecurity • IT Audit • GRC • Networking • Technical Support</h3>
-<p align="center">Portland, Oregon • Early career IT professional focused on protecting systems, strengthening controls, and solving technical problems.</p>
+<h3 align="center">IT Audit • GRC • Cybersecurity • Technical Support</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA0038?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
@@ -10,7 +9,7 @@
 
 ## About me
 
-I combine an Information Systems background with hands on experience in IT audit, controls testing, technical support, and business systems. During my PwC internship, I supported IT general controls and SOX related audit work while building a disciplined approach to evidence, documentation, and stakeholder communication.
+I have an Information Systems background and experience in IT audit and technical support. At PwC, I worked on IT controls testing and audit documentation related to access, change management, and incident management.
 
 ## Technical foundation
 
